@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachecncrypt",
+        "uuid": 9039877,
+        "checksum": "ehby67"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
